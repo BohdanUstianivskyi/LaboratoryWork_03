@@ -1,2 +1,9 @@
-package PACKAGE_NAME;public class For {
+public class For {
+    public static void main(String[] args) {
+        for (int h = 0; h < 3; h++) {
+            for (int min = 0; min < 60; min++) {
+                System.out.println(h + "h " + min + "min");
+            }
+        }
+    }
 }
