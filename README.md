@@ -15,9 +15,13 @@ This project involves the following tasks:
 3. Using the while loop, display the following information on the console:
 
 0h 0 min
+
 0 h 1 min
+
 0 h 2 min
+
 ...
+
 2h 59 min
 
 4. Using the b while or for loop, display information on the console:
