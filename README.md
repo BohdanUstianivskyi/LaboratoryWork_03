@@ -46,6 +46,8 @@ This project involves the following tasks:
 the limits of which are entered from the keyboard (and output a message about their absence).
 
 The program can be implemented in 2 ways: with the while operator and the for operator.
+
+![6](https://github.com/BohdanUstianivskyi/LaboratoryWork_03/assets/132481363/bc01be20-af35-4f15-baf2-22ef2d3ef88e)
 # Requirements.
 To run this project, you must have the following installed on your computer: IntelliJ IDEA Community Edition.
 
@@ -56,4 +58,5 @@ git clone https://github.com/BohdanUstianivskyi/LaboratoryWork_03
 # Results
 
 Task_1: <br>
+
 
