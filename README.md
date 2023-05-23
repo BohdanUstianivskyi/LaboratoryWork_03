@@ -6,15 +6,14 @@ This project involves the following tasks:
 - display it on the console 50 times using the while loop;
 
 2. Using the for loop, display information on the console:
-<br>
-0 h 0 min
-0 h 1 min
-0 h 2 min
-...
-2h 59 min
+-0 h 0 min
+-0 h 1 min
+-0 h 2 min
+-...
+-2h 59 min
 
 3. Using the while loop, display the following information on the console:
-<br>
+
 0h 0 min
 0 h 1 min
 0 h 2 min
