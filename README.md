@@ -46,4 +46,10 @@ This project involves the following tasks:
 the limits of which are entered from the keyboard (and output a message about their absence).
 
 The program can be implemented in 2 ways: with the while operator and the for operator.
+# Requirements.
+To run this project, you must have the following installed on your computer: IntelliJ IDEA Community Edition.
+
+# Build Instructions
+Clone the repository to your local machine using <br>
+git clone 
 
